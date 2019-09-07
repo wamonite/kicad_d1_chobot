@@ -1,5 +1,11 @@
 # d1_chobot
 
-Cenral heating and hot water robot
+Central heating and hot water robot
 
 ![Front](/d1_chobot.png)
+
+## Contact
+
+          @wamonite     - twitter
+           \_______.com - web
+    warren____________/ - email
