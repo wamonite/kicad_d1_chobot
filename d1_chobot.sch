@@ -699,4 +699,16 @@ F 3 "~" H 10900 6850 50  0001 C CNN
 $EndComp
 Text Notes 7000 7100 0    35   ~ 0
 Copyright © 2019 Warren Moore\n\nThis documentation describes Open Hardware and is licensed under the CERN OHL v. 1.2.\n\nYou may redistribute and modify this documentation under the terms of the CERN OHL v.1.2. (http://ohwr.org/cernohl). This \ndocumentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY \nAND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable conditions\n\nIf you chose to manufacture products based on this design, please notify me (see license section 4.2) via warren@wamonite.com
+Text Notes 6850 2600 0    50   ~ 0
+ORANGE
+Text Notes 6850 2700 0    50   ~ 0
+RED
+Text Notes 6850 2800 0    50   ~ 0
+BROWN
+Text Notes 6850 4100 0    50   ~ 0
+ORANGE
+Text Notes 6850 4200 0    50   ~ 0
+RED
+Text Notes 6850 4300 0    50   ~ 0
+BROWN
 $EndSCHEMATC
